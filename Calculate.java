@@ -22,4 +22,5 @@ public class Calculate {
 	{
 		return ((x / y) * 100);
 	}
+	/* hello upadtes please */
 }
